@@ -32,7 +32,7 @@
     <h2>Installation</h2>
     <ol>
         <li>Clone the repository:
-            <pre><code>git clone https://github.com/yourusername/files-to-zip-converter.git</code></pre>
+            <pre><code>git clone https://github.com/vachhanirahul/Files_To_Zip_Converter.git</code></pre>
         </li>
         <li>Navigate to the project directory:
             <pre><code>cd files-to-zip-converter</code></pre>
